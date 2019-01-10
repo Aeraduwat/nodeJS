@@ -1,0 +1,15 @@
+{
+  "name": "node-js",
+  "version": "0.0.1",
+  "description": "Package de prueba",
+  "main": "index4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/Aeraduwat/nodeJS.git\""
+  },
+  "author": "Felipe",
+  "license": "ISC"
+}
